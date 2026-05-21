@@ -210,47 +210,9 @@ docker run -p 8501:8501 bankretain-iq
 
 ---
 
-## ☁️ Streamlit Cloud Deployment
-
-1. Push to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Connect repo → set `dashboard/app.py` as entry point
-4. Deploy → share URL
-
----
-
-## 📄 Resume Bullet Points
-
-```
-• Built end-to-end banking churn prediction platform achieving 86.1% ROC-AUC using
-  LightGBM with SMOTE oversampling on 10,000-customer European bank dataset
-
-• Engineered 12 domain-specific behavioural KPIs (Engagement Score, Relationship
-  Strength Index, Premium Risk Score) improving model performance by 8% vs baseline
-
-• Implemented SHAP explainability to identify top churn drivers, enabling targeted
-  retention campaigns estimated to reduce monthly churn by 15–20%
-
-• Deployed 8-tab interactive Streamlit dashboard with KPI monitoring, customer
-  segmentation (KMeans), and personalised retention recommendation engine
-```
-
----
-
-## 🔗 LinkedIn Project Description
-
-> **BankRetain IQ — Customer Retention Intelligence Platform**
->
-> Built a full-stack banking analytics platform that predicts customer churn with 86.1% AUC, segments 10,000+ customers into behavioural personas, and generates personalised retention strategies using a rule-based intelligence engine.
->
-> Stack: Python | LightGBM | SHAP | Streamlit | Plotly | Scikit-learn | KMeans
-
----
-
 ## 👤 Author
-
+Abhishek Raut
 Built as an industry-level portfolio project demonstrating banking analytics, machine learning engineering, and data product development.
 
 ---
 
-*"Retention is cheaper than acquisition. Intelligence is cheaper than guessing."*
